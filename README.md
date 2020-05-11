@@ -1,4 +1,5 @@
 # testPhotoApplication
 
 Tested on lollipop
-Buid apk under build folder
+
+Requires java 8,
